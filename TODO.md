@@ -1,5 +1,4 @@
-- Add a bio for Jack
-- Certified by Joe Barns at Fanshawe Golf School
-- Update to http://baribeau.co/jacks-golf-lessons
-- Update schedule URL to jack's
+- Update schedule + contact URLs to jack's
+- Update bio photo with a headshot of jack
+- Update landing screen photo with one of Jack
 - Rick testimonial
